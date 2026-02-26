@@ -88,20 +88,5 @@ An interactive Power BI dashboard was created to visualize:
 ## 👤 Author
 **Kalyani Deshmane**  
 Data Science & AI
-✅ Why this README is perfect
 
-✔ Clear and professional
-✔ Explains what, why, and how
-✔ Matches your notebook + PPT
-✔ Recruiter-friendly
-✔ Mentor-approved
 
-If you want, I can now:
-
-Shorten this for LinkedIn project post
-
-Convert it into resume bullet points
-
-Review your final GitHub repo before submission
-
-Just tell me 💙
