@@ -78,30 +78,6 @@ An interactive Power BI dashboard was created to visualize:
 
 ---
 
-## 📂 Repository Structure
-commerce-Customer-Segmentation/
-│
-├── notebooks/
-│ └── Ecommerce_Customer_Segmentation.ipynb
-│
-├── data/
-│
-├── model/
-│ └── random_forest_model.pkl
-│
-├── powerbi/
-│ └── Customer_Segmentation_Dashboard.pbix
-│
-├── images/
-│
-├── report/
-│ └── Ecommerce_Capstone_Presentation_Professional.pptx
-│
-└── README.md
-
-
----
-
 ## 🚀 Future Enhancements
 - Deploy the predictive model using Streamlit
 - Integrate real-time customer data
